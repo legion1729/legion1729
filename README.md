@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @legion1729
+- 👋 Hi, I’m legion
 - 👀 I’m interested in backend and flutter
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on anyproject
